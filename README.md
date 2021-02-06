@@ -1,4 +1,12 @@
-### Hi there 👋
+### Hi there, I'm Shubham! 👋
+
+<a href="https://twitter.com/shubham_patrick">
+  <img align="left" alt="Shubham's Twitter" src="https://img.icons8.com/bubbles/50/000000/twitter.png"/>
+</a>
+
+<a href="https://www.linkedin.com/in/ahthneeuhl/">
+  <img align="left" alt="Shubham's LinkedIn" src="https://img.icons8.com/bubbles/50/000000/linkedin.png"/>
+</a>
 
 <!--
 **AHTHneeuhl/AHTHneeuhl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
