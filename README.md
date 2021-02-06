@@ -1,4 +1,8 @@
-### Hi there, I'm Shubham! 👋
+## Hi, I'm Shubham!
+
+<img align='right' src="https://i.pinimg.com/originals/77/ce/6a/77ce6a40a6893ba11b69785ea63e4490.jpg" width="230">
+
+Passionate about coding and curious to learn new technologies and skills.
 
 <a href="https://twitter.com/shubham_patrick">
   <img align="left" alt="Shubham's Twitter" src="https://img.icons8.com/bubbles/50/000000/twitter.png"/>
