@@ -1,6 +1,6 @@
 ## Hi, I'm Shubham!
 
-[![visitors](https://visitor-badge.laobi.icu/badge?page_id=AHTHneeuhl.AHTHneeuhl)](https://github.com/manali-biswas) [![Github Followers](https://img.shields.io/github/followers/AHTHneeuhl.svg?style=social&label=Follow)](https://github.com/AHTHneeuhl?tab=followers)
+[![visitors](https://visitor-badge.laobi.icu/badge?page_id=AHTHneeuhl.AHTHneeuhl)](https://github.com/AHTHneeuhl) [![Github Followers](https://img.shields.io/github/followers/AHTHneeuhl.svg?style=social&label=Follow)](https://github.com/AHTHneeuhl?tab=followers)
 
 Passionate about coding and now implementing technologies and skills.
 
