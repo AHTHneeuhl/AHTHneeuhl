@@ -26,7 +26,7 @@ Passionate about coding and now implementing technologies and skills.
 
 
 ### Contacts
-![ahthneeuhl](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)
+![https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white](https://www.linkedin.com/in/ahthneeuhl/)
 <!--
 <a href="https://twitter.com/shubham_patrick"> > <img align="left" alt="Shubham's Twitter" src="https://img.icons8.com/bubbles/50/000000/twitter.png"/> > </a>
 
