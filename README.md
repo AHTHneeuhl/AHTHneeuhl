@@ -1,6 +1,6 @@
 ## Hi, I'm Shubham!
 
-[![Visitors](https://visitor-badge.laobi.icu/badge?page_id=AHTHneeuhl.AHTHneeuhl)](https://github.com/AHTHneeuhl) [![Github Followers](https://img.shields.io/github/followers/AHTHneeuhl.svg?style=social&label=Followers)](https://github.com/AHTHneeuhl?tab=followers)
+![Visitors](https://komarev.com/ghpvc/?username=AHTHneeuhl&label=Visitors&color=teal) [![Github Followers](https://img.shields.io/github/followers/AHTHneeuhl.svg?style=social&label=Followers)](https://github.com/AHTHneeuhl?tab=followers)
 
 Passionate about coding and now implementing technologies and skills.
 
@@ -14,7 +14,7 @@ Passionate about coding and now implementing technologies and skills.
 ![ReactJS](https://img.shields.io/badge/react-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![NextJS](https://img.shields.io/badge/nextjs-%23000000.svg?&style=for-the-badge&logo=next.js&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/node.js-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white)
-![ExpressJS](https://img.shields.io/badge/express.js-%23404d59.svg?&style=for-the-badge)
+![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?&style=for-the-badge&logo=PyTorch&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white)
