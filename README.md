@@ -1,6 +1,6 @@
 ## Hi, I'm Shubham!
 
-![Visitors](https://komarev.com/ghpvc/?username=AHTHneeuhl&label=Visitors&color=teal) [![Github Followers](https://img.shields.io/github/followers/AHTHneeuhl.svg?style=social&label=Followers)](https://github.com/AHTHneeuhl?tab=followers)
+![Visitors](https://komarev.com/ghpvc/?username=AHTHneeuhl&label=Visitors&color=ff69b4) [![Github Followers](https://img.shields.io/github/followers/AHTHneeuhl.svg?style=social&label=Followers)](https://github.com/AHTHneeuhl?tab=followers)
 
 Passionate about coding and now implementing technologies and skills.
 
