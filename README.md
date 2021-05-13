@@ -4,6 +4,12 @@
 
 Passionate about coding and now implementing technologies and skills.
 
+### Working
+- Web Development
+- Mobile Development
+- Machine Learning
+- Deep Learning
+
 ### Skills
 
 ![Javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
@@ -25,28 +31,7 @@ Passionate about coding and now implementing technologies and skills.
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white)
 
 
-### Contacts
+### Contact
 <a href="https://www.linkedin.com/in/ahthneeuhl/">
 <img align="left" alt="Shubham's LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-<!--
-<a href="https://twitter.com/shubham_patrick"> > <img align="left" alt="Shubham's Twitter" src="https://img.icons8.com/bubbles/50/000000/twitter.png"/> > </a>
-
-<a href="https://www.linkedin.com/in/ahthneeuhl/">
-<img align="left" alt="Shubham's LinkedIn" src="https://img.icons8.com/bubbles/50/000000/linkedin.png"/>
-</a> -->
-
-<!--
-**AHTHneeuhl/AHTHneeuhl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
