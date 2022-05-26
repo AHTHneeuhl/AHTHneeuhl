@@ -9,6 +9,7 @@
 ![Top Langs][top_langs]
 
 <!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
 
 <p align="right">
   <img alt="mona-whisper"  width="50" src="https://github.githubassets.com/images/mona-whisper.gif"/>
