@@ -1,4 +1,4 @@
-# Hi there 👋, I'm Shubham Patrick.
+# Hi there!
 
 ![GitHub Stats][github_stats]
 
