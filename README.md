@@ -8,15 +8,6 @@
 
 ![Top Langs][top_langs]
 
-<!--START_SECTION:activity-->
-
-1. 🎉 Merged PR [#40](https://github.com/jamesgeorge007/scaffold-static/pull/40) in [AHTHneeuhl/scaffold-static](https://github.com/jamesgeorge007/scaffold-static)
-2. 🎉 Merged PR [#135](https://github.com/madlabsinc/teachcode/pull/135) in [madlabsinc/teachcode](https://github.com/madlabsinc/teachcode)
-3. 🎉 Merged PR [#136](https://github.com/madlabsinc/teachcode/pull/136) in [madlabsinc/teachcode](https://github.com/madlabsinc/teachcode)
-4. 🎉 Merged PR [#135](https://github.com/madlabsinc/teachcode/pull/135) in [madlabsinc/teachcode](https://github.com/madlabsinc/teachcode)
-5. 🎉 Merged PR [#136](https://github.com/madlabsinc/teachcode/pull/136) in [madlabsinc/teachcode](https://github.com/madlabsinc/teachcode)
-   <!--END_SECTION:activity-->
-
 <p align="right">
   <img alt="mona-whisper"  width="50" src="https://github.githubassets.com/images/mona-whisper.gif"/>
 </p>
