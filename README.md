@@ -1,4 +1,4 @@
-# Hi there!
+# Hey there!
 
 ![GitHub Stats][github_stats]
 
