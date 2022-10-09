@@ -2,7 +2,7 @@
 
 ![GitHub Stats][github_stats]![GitHub Streak][github_streak]![Waketime Stats][waketime_stats]
 
-![Top Langs][top_langs]
+<!-- ![Top Langs][top_langs] -->
 
 <p align="right">
   <img alt="mona-whisper"  width="50" src="https://github.githubassets.com/images/mona-whisper.gif"/>
