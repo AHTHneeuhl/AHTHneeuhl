@@ -1,6 +1,6 @@
 # Hey there 👋!
 
-![GitHub Stats][github_stats]![GitHub Streak][github_streak]![Waketime Stats][waketime_stats]
+![GitHub Stats][github_stats]![GitHub Streak][github_streak]![Waketime Stats][waketime_stats]![Top Langs][top_langs]
 
 <!-- ![Top Langs][top_langs] -->
 
